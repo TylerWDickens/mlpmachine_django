@@ -26,7 +26,6 @@ dj-database-url==1.0.0
 Django==4.1.1
 django-crispy-forms==1.14.0
 django-on-heroku==1.1.2
-duplicity==0.8.21
 entrypoints==0.4
 executing==1.1.0
 fasteners==0.14.1
