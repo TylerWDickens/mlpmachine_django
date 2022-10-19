@@ -1,1 +1,1 @@
-pip
+web: gunicorn mlpmachine.wsgi
