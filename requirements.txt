@@ -128,8 +128,6 @@ traitlets==5.4.0
 types-pytz==2022.2.1.0
 typing_extensions==4.3.0
 tzdata==2022.2
-ubuntu-advantage-tools==27.11.2
-ubuntu-drivers-common==0.0.0
 ufw==0.36.1
 unattended-upgrades==0.1
 urllib3==1.26.12
