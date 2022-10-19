@@ -50,7 +50,6 @@ jupyter_client==7.3.5
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
 keyring==23.5.0
-language-selector==0.1
 launchpadlib==1.10.16
 lockfile==0.12.2
 louis==3.20.0
