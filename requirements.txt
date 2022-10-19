@@ -16,7 +16,6 @@ click==8.0.3
 colorama==0.4.5
 coloredlogs==15.0.1
 crispy-bootstrap5==0.6
-cupshelpers==1.0
 dbus-python==1.2.18
 debugpy==1.6.3
 decorator==5.1.1
@@ -31,12 +30,10 @@ django-crispy-forms==1.14.0
 django-on-heroku==1.1.2
 duplicity==0.8.21
 entrypoints==0.4
-et-xmlfile==1.1.0
 executing==1.1.0
 fasteners==0.14.1
 fastjsonschema==2.16.2
 future==0.18.2
-httplib2==0.20.2
 humanfriendly==10.0
 idna==3.4
 img2pdf==0.4.4
@@ -58,8 +55,6 @@ jupyterlab-widgets==3.0.3
 keyring==23.5.0
 language-selector==0.1
 launchpadlib==1.10.16
-lazr.restfulclient==0.14.4
-lazr.uri==1.0.6
 lockfile==0.12.2
 louis==3.20.0
 lxml==4.9.1
@@ -154,5 +149,4 @@ webencodings==0.5.1
 whitenoise==6.2.0
 widgetsnbextension==4.0.3
 xdg==5
-xkit==0.0.0
 zipp==1.0.0
